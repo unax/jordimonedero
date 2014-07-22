@@ -6,10 +6,10 @@
         id        = "app.drhidalgo.com"
         version   = "1.0.0">
 
-    <name>Enfermeria Plaza de Toros Pamplona</name>
+    <name>Jordi Monedero's App</name>
 
     <description>
-        Enfermeria Plaza de Toros Pamplona
+        Jordi Monedero's App
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
