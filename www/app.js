@@ -39,6 +39,8 @@ var imageURI = str.replace("file:///var/", "file://localhost/var/");
         var url = 'http://www.jordimonedero.com/mobile.php';
         var form_data = {
             titulo: $("#titulo").val(),
+            lati: $("#lat").val(),
+            longi: $("#lon").val(),
             categoria: $("#categoria").val(),
             texto: $("#texto").val(),
             is_ajax: 1
