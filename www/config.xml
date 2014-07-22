@@ -6,10 +6,10 @@
         id        = "app.drhidalgo.com"
         version   = "1.0.0">
 
-    <name>Jordi Monedero's App</name>
+    <name>Blognedero App</name>
 
     <description>
-        Jordi Monedero's App
+        Blognedero App
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
